@@ -1,4 +1,4 @@
-package com.example.restclient2;
+package com.example.restclient2.restclient;
 
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.springframework.context.annotation.Bean;
